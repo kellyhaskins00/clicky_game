@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Squidward",
+    "image": "https://newvitruvian.com/images/transparent-squidward-background-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+  },
+  {
+    "id": 3,
+    "name": "Spongebob",
+    "image": "https://i.pinimg.com/originals/52/01/aa/5201aa66743f162c6adb565d8754d14a.png"
+  },
+  {
+    "id": 4,
+    "name": "Sandy",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/220px-Sandy_Cheeks.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "Patrick",
+    "image": "https://cdn-images-1.medium.com/max/1200/1*XLkyIpaeYOL52sS2QF7DLA.png"
+  },
+  {
+    "id": 6,
+    "name": "Pearl",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Pearl_Krabs.svg/220px-Pearl_Krabs.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "Mrs. Puff",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Mrs._Puff.svg/220px-Mrs._Puff.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "Plankton",
+    "image": "https://vignette.wikia.nocookie.net/awegamer2015/images/4/47/Plankton.png/revision/latest?cb=20160526190055"
+  },
+  {
+    "id": 9,
+    "name": "Mermaid Man",
+    "image": "https://vignette.wikia.nocookie.net/spongebob-20/images/c/cf/Mermaid_Man.png/revision/latest?cb=20161214225845"
+  },
+  {
+    "id": 10,
+    "name": "Gary",
+    "image": "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/characters/gary-character-web-desktop.png?height=0&width=480&matte=true&crop=false"
+  },
+  {
+    "id": 11,
+    "name": "Squilliam",
+    "image": "https://vignette.wikia.nocookie.net/the-new-parody/images/a/ae/Squilliam_s6-p.png/revision/latest?cb=20180413071129"
+  },
+  {
+    "id": 12,
+    "name": "Barnacleboy",
+    "image": "https://vignette.wikia.nocookie.net/spongepedia/images/f/fa/BBB.png/revision/latest?cb=20140507002955"
+  }
+]
